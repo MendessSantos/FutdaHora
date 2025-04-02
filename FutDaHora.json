@@ -58,12 +58,12 @@
   ],
   "channels": [
     {
-      "title": "Belziuin X Novorizontino",
+      "title": "twste",
       "category": "Copa do Brasil - 19H00",
       "image": "https://i.ibb.co/m585WGc/Jo47.png",
-      "source1": "https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd?ck=ZDk4MjM5MTgwZDgzODBiM2ExYmIyOGQ4NzViMWRkZjI6Y2Y4MzZjZWQ1NzkyNTdkMWM3NmFlODgwOTgxOGU2YzQ=",
-      "source2": "<iframe src='https://papadobola.com/BIBO_BR25/pfc1_prm.html'></iframe>",
-      "source3": "<iframe src='https://papadobola.com/BIBO_PRM25/pfc1.html'></iframe>",
+      "source1": "http://108.181.63.63/PREMIERECLUBES/index.m3u8",
+      "source2": "<iframe src='https://embedcanaistv.com/espn/'></iframe>",
+      "source3": "<iframe src='http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/8777'></iframe>",
       "referer1": "",
       "referer2": "",
       "referer3": "",
